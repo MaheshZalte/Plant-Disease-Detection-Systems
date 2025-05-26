@@ -1,0 +1,26 @@
+# Environment
+venv/
+env/
+.env
+
+# Firebase credentials
+firebase-credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Model files (if too large)
+*.keras
+
+# Logs
+*.log
+app.log
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
