@@ -24,3 +24,5 @@ app.log
 # OS files
 .DS_Store
 Thumbs.db
+
+plant_disease_detection.json
